@@ -3,13 +3,13 @@ import { StyleSheet } from "react-native"
 export const style = StyleSheet.create({
     conteiner:{
         flex:1,
-        backgroundColor:'#0fff',
+        backgroundColor:'rgba(119, 0, 255, 1)',
         justifyContent:'center',
         alignItems:'center'
     
     },
     text:{
-        color:'#000',
+        color:'#fff',
         textAlign:'center',
         fontSize:30,
     }    
