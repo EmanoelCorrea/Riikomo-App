@@ -6,7 +6,7 @@ export default function AppRiikomo(){
     return(
         <View style={style.conteiner}>
             <Text style={style.text}>
-                Hello,World!!!
+                Olá,mundico!!!
             </Text>
         </View>
     )
