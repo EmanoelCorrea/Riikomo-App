@@ -11,6 +11,6 @@ export const style = StyleSheet.create({
     text:{
         color:'#000',
         textAlign:'center',
-        fontSize:30,
+        fontSize:50,
     }    
 })
